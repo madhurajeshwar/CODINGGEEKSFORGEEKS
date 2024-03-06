@@ -11,3 +11,7 @@ Date 04 -03-2024
 
 Finished revision today . Left with prefix sum concept and equilibrium position question ( will solve it tomorrow and finish the remaining 18 problems by eod) fell short in confidence since I couldnt solve an easy question today.. wont repeat that in case I dont get anything I will look into the solution and learn and rewrite from today.. 31 days more ..
 
+
+06-03-2024
+Finished 16 coding questions ( learned a lot of new concepts) quite a productive day... still lagging behind the schedule but I am okay with it since I am consistent..
+
